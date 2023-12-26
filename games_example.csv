@@ -1,0 +1,2 @@
+title,dateBought,datePlayed,price,physical,borrowed,replayed,console
+"Example Data", "1/1/21","1/1/21",60,true,false,false,"PC"
