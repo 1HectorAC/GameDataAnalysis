@@ -16,3 +16,6 @@ This is an analysis of games bought in a given year. The year is specified at th
 
 ### FullBuyAnalysis:
 This is an analysis of all games bought. This will mainly look at comparing data from every year.
+
+### FullPlayAnalysis:
+This is an analysis of all games Played. Focus will be on yearly data.
