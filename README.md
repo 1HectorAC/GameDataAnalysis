@@ -12,10 +12,13 @@ Games will be analyzed from the games.csv file. This file needs to be created. A
 There are currently 2 notebooks that can be ran.
 
 ### BuyAnalysis:
-This is an analysis of games bought in a given year. The year is specified at the top of the page. This will mainly look at comparing data from every month.
+This is an analysis of games bought in a given year. The year is specified at the top of the page. Focus will be on monthly data.
+
+### PlayAnalysis:
+This is an analysis of games played in a given year. The year is specified at the top of the page. Focus will be on monthly data.
 
 ### FullBuyAnalysis:
-This is an analysis of all games bought. This will mainly look at comparing data from every year.
+This is an analysis of all games bought. Focus will be on yearly data.
 
 ### FullPlayAnalysis:
 This is an analysis of all games Played. Focus will be on yearly data.
